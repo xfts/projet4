@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #baff7a !important;
 }
 
 .btn-atomic-tangerine {
@@ -812,11 +812,11 @@ h4 {
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
 }
-
+/*
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
 }
-
+*/
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere.jpg");
 }
@@ -1040,3 +1040,15 @@ h4 {
         text-align: center;
     }
 }
+
+
+
+
+/* leme */
+
+footer p{margin-bottom: 20px;font-size:13px;}
+#section2 p { font-size: 14px;}
+#section4 p { font-size: 14px;}
+#section4 img{ border: solid; border-radius: 10px;}
+#pPb  { font-size: 16px;}
+#aPb  { font-size: 20px;}
