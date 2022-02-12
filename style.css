@@ -1046,6 +1046,7 @@ h4 {
 
 /* leme */
 
+
 footer p{margin-bottom: 20px;font-size:13px;color:black!important;}
 #section2 p { font-size: 14px;}
 #section4 p { font-size: 14px;}
@@ -1070,12 +1071,16 @@ display:flex !important;
 flex-direction:column !important;
 align-items:center !important;
 }
-
 @media (max-width: 668px) {
     #image1,#image2,#image3,#image4{
     height: 240px;
     }
 }
+
+/* page2*/
+#textButton{color:black !important;}
+/* page2*/
+
 
 /* leme */
 
