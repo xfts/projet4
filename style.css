@@ -1081,6 +1081,16 @@ align-items:center !important;
 #textButton{color:black !important;}
 /* page2*/
 
-
+@media (min-height: 1068px) {
+    #footerPage2{
+	position: absolute;
+	bottom: 0;
+	left:0;
+	right:0;
+    }
+}
+main{
+    margin-bottom: 120px;
+}
 /* leme */
 
